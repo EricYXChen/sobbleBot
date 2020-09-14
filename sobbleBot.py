@@ -15,7 +15,7 @@ client = commands.Bot(command_prefix = '!')
 
 
 #global variables
-API = "RGAPI-408200e3-91f5-4e72-862e-c538ce9481af"
+API = "RGAPI-496b6db7-9e20-4bf1-beba-350124923724"
 watcher = LolWatcher(API)
 my_region = "na1"
 championURL = "http://ddragon.leagueoflegends.com/cdn/10.16.1/data/en_US/champion.json"
